@@ -6,9 +6,9 @@ I will show you how you can easily create a powerful chatbot to handle 1) your g
 I will also show you how to deploy your chatbot to a web application using Flask.
 
 ## File Descriptions
-Chatbot Notebook.ipynb: Jupyter notebook used to develop chatbot
-chatbot_training.py: chatbot training file 
-chatbot.py: executable chatbot file
+Chatbot Notebook.ipynb: Jupyter notebook used to develop chatbot\n
+chatbot_training.py: chatbot training file \n
+chatbot.py: executable chatbot file\n
 web_app.py: Flask web application file
 
 ## Instructions
