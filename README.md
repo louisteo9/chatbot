@@ -5,6 +5,9 @@ I will show you how you can easily create a powerful chatbot to handle 1) your g
  
 I will also show you how to deploy your chatbot to a web application using Flask.
 
+Feel free to read the post I published on Towards Data Science
+https://towardsdatascience.com/beginners-guide-to-creating-a-powerful-chatbot-48fc6b073e55
+
 ## File Descriptions
 Chatbot Notebook.ipynb: Jupyter notebook used to develop chatbot<br/>
 chatbot_training.py: chatbot training file<br/>
