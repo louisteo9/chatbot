@@ -16,6 +16,7 @@ web_app.py: Flask web application file<br/>
 2. pip install chatterbot_corpus
 3. pip install spacy
 4. python -m spacy download en
-5. run **chatbot_training.py**
-6. run **chatbot.py**
-7. run **web_app.py** to deploy chatbot to web app using Flask.
+5. save your conversation text files in **training_data** folder
+6. run **chatbot_training.py**
+7. run **chatbot.py**
+8. run **web_app.py** to deploy chatbot to web app using Flask.
