@@ -1,7 +1,7 @@
 # Chatbot
 ## Description
 
-I will show you how you can easily create a powerful chatbot to handle 1) your growing customer requests and inquiries, and 2) communication in different languages.
+I will show you how you can easily create a powerful chatbot to handle your growing customer requests and inquiries.
  
 I will also show you how to deploy your chatbot to a web application using Flask.
 
