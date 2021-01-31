@@ -1,11 +1,11 @@
 # Chatbot
 ## Table of Contents
-1. [Introduction]()
-2. [File Description]()
-3. [Installation]()
-4. [Instructions]()
-5. [Acknowledgement]()
-6. [Screenshots]()
+1. [Introduction](https://github.com/louisteo9/chatbot#introduction)
+2. [File Description](https://github.com/louisteo9/chatbot#file-description)
+3. [Installation](https://github.com/louisteo9/chatbot#installation)
+4. [Instructions](https://github.com/louisteo9/chatbot#instructions)
+5. [Acknowledgement](https://github.com/louisteo9/chatbot#acknowledgement)
+6. [Screenshots](https://github.com/louisteo9/chatbot#screenshots)
 
 ## Introduction
 
