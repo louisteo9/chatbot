@@ -46,8 +46,8 @@ chatterbot, os, flask
 [ChatterBot](https://chatterbot.readthedocs.io/en/stable/) for creating such a powerful chatbot library.
 
 ## Screenshots
-1. Run **chatbot_training.py** to train your chatbot.
+1. Run **chatbot_training.py** to train your chatbot.<br/>
 ![](https://github.com/louisteo9/chatbot/blob/main/screenshots/run%20chatbot_training.gif)
 
-2. Run **chatbot.py** to launch chatbot in terminal. Input some conversations and test if it responds properly.
+2. Run **chatbot.py** to launch chatbot in terminal. Input some conversations and test if it responds properly.<br/>
 ![](https://github.com/louisteo9/chatbot/blob/main/screenshots/run%20chatbot.gif)
